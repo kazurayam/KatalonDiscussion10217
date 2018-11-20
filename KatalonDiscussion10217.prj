@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://forum.katalon.com/discussion/10217/how-to-configure-the-test-suite-collection-report</description>
+   <name>KatalonDiscussion10217</name>
+   <tag></tag>
+   <UUID>239fc50a-0b63-49d8-8402-11e06f4f62ef</UUID>
+   <migratedVersion>5.7.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>GENERIC</type>
+</Project>
